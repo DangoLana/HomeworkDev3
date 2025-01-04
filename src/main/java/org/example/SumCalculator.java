@@ -11,5 +11,6 @@ public class SumCalculator {
             sum += i;
         }
         return sum;
+        //some changes
     }
 }
